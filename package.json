@@ -1,0 +1,24 @@
+{
+  "name": "jsbuild.github.io",
+  "version": "1.0.0",
+  "description": "JSBuild Web Site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JSBuild/jsbuild.github.io.git"
+  },
+  "keywords": [
+    "JSBuild",
+    "JavaScript",
+    "Build"
+  ],
+  "author": "Jamey McElveen <jamey@mcelveen.us> (http://jameymcelveen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSBuild/jsbuild.github.io/issues"
+  },
+  "homepage": "https://github.com/JSBuild/jsbuild.github.io#readme"
+}
